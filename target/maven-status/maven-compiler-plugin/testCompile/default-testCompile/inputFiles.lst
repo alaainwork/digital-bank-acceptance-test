@@ -1,12 +1,16 @@
+C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\api\models\User.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\models\BankTransaction.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\pages\LoginPage.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\pages\BaseMenuPage.java
+C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\api\steps\data_transformers\DataTableTransformer.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\pages\RegistrationPage.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\utils\ConfigReader.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\utils\BrowserHelper.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\pages\BasePage.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\steps\RegistrationSteps.java
+C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\api\steps\UserSteps.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\utils\MockData.java
+C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\api\utils\RestHttpRequest.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\steps\DataTableTransformer.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\pages\CreateCheckingPage.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\models\AccountCard.java
@@ -16,4 +20,5 @@ C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedev
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\utils\Driver.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\pages\ViewCheckingAccountPage.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\steps\CheckingAccountSteps.java
+C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\api\utils\ObjectMapperUtils.java
 C:\Users\moham\IdeaProjects\digital-bank-acceptance-tests\src\test\java\co\wedevx\digitalbank\automation\ui\models\NewCheckingAccountInfo.java

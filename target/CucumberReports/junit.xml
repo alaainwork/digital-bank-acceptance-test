@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="20.093">
-    <testcase classname="Digital Bank Registration Page" name="Positive Case. As a user, I want to successfully create Digital Bank Account" time="9.081">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="23.952">
+    <testcase classname="Digital Bank Registration Page" name="Positive Case. As a user, I want to successfully create Digital Bank Account" time="10.362">
         <system-out><![CDATA[Given The user with "jack@test.co" is not in DB.............................passed
 Given User navigate to Digital Bank signup page.............................passed
 When User create account with following fields..............................passed
@@ -8,28 +8,28 @@ Then user should be displayed with the message "Success Registration Successful.
 Then the following user info should be saved in the db......................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="Digital Bank Registration Page" name="Negative Test Case. As a Digital Bank Admin I want to make sure users can not register without providing all valid data" time="4.098">
+    <testcase classname="Digital Bank Registration Page" name="Negative Test Case. As a Digital Bank Admin I want to make sure users can not register without providing all valid data" time="4.878">
         <system-out><![CDATA[Given The user with "jack@test.co" is not in DB.............................passed
 Given User navigate to Digital Bank signup page.............................passed
 When User create account with following fields..............................passed
 Then user should see the "title" required field error message "Please select an item in the list.".passed
 ]]></system-out>
     </testcase>
-    <testcase classname="Digital Bank Registration Page" name="Negative Test Case. As a Digital Bank Admin I want to make sure users can not register without providing all valid data 2" time="1.914">
+    <testcase classname="Digital Bank Registration Page" name="Negative Test Case. As a Digital Bank Admin I want to make sure users can not register without providing all valid data 2" time="2.876">
         <system-out><![CDATA[Given The user with "jack@test.co" is not in DB.............................passed
 Given User navigate to Digital Bank signup page.............................passed
 When User create account with following fields..............................passed
 Then user should see the "firstName" required field error message "Please fill out this field.".passed
 ]]></system-out>
     </testcase>
-    <testcase classname="Digital Bank Registration Page" name="Negative Test Case. As a Digital Bank Admin I want to make sure users can not register without providing all valid data 3" time="1.868">
+    <testcase classname="Digital Bank Registration Page" name="Negative Test Case. As a Digital Bank Admin I want to make sure users can not register without providing all valid data 3" time="2.81">
         <system-out><![CDATA[Given The user with "jack@test.co" is not in DB.............................passed
 Given User navigate to Digital Bank signup page.............................passed
 When User create account with following fields..............................passed
 Then user should see the "lastName" required field error message "Please fill out this field.".passed
 ]]></system-out>
     </testcase>
-    <testcase classname="Digital Bank Registration Page" name="Negative Test Case. As a Digital Bank Admin I want to make sure users can not register without providing all valid data 4" time="1.898">
+    <testcase classname="Digital Bank Registration Page" name="Negative Test Case. As a Digital Bank Admin I want to make sure users can not register without providing all valid data 4" time="2.8">
         <system-out><![CDATA[Given The user with "jack@test.co" is not in DB.............................passed
 Given User navigate to Digital Bank signup page.............................passed
 When User create account with following fields..............................passed
